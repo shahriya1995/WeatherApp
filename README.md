@@ -1,5 +1,6 @@
 # WeatherApp
-GUI Application Using Python Tkinter
+
+Weather Application with graphical User Interface using Tkinter library. 
 
 ### Prerequisites:
 
@@ -13,7 +14,11 @@ GUI Application Using Python Tkinter
 
 1. Go to url : https://openweathermap.org/forecast5
 2. Sign up and click API keys
-3. Copy that key in code under APPID
+3. Copy that key in code use as APPID in your code
+
+### GUI Output
+
+<img src ="GUI-OUTPUT.png" height="50%" width="50%"/>
 
 
   
